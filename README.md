@@ -1,4 +1,4 @@
-### Hi there, I'm 紫菜苔 [zhuchentong](https://www.github.com/zct1989) 👋
+### Hi there, I'm 紫菜苔 [zhuchentong](https://www.github.com/zhuchentong) 👋
 
 [![Website](https://img.shields.io/website?label=zhuchentong.cn&style=for-the-badge&url=https%3A%2F%2Fzhuchentong.cn)](https://zhuchentong.cn)
 
@@ -32,6 +32,6 @@
 
 ### 📈 GitHub Stats
 
-![zct1989's github stats](https://github-readme-stats.vercel.app/api?username=zct1989&count_private=true&show_icons=true)
+![zhuchentong's github stats](https://github-readme-stats.vercel.app/api?username=zhuchentong&count_private=true&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zct1989)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhuchentong)](https://github.com/anuraghazra/github-readme-stats)
