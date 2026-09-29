@@ -44,12 +44,12 @@ I'm **紫菜苔 (zhuchentong)**, a front-end developer from China. I build web a
 
 <table>
   <tr>
-    <td><a href="https://github.com/zhuchentong/yolov8-segment-web-demo"><img alt="yolov8-segment-web-demo" src="https://github-readme-stats.vercel.app/api/pin/?username=zhuchentong&amp;repo=yolov8-segment-web-demo" /></a></td>
-    <td><a href="https://github.com/zhuchentong/gis-client"><img alt="gis-client" src="https://github-readme-stats.vercel.app/api/pin/?username=zhuchentong&amp;repo=gis-client" /></a></td>
+    <td><a href="https://github.com/zhuchentong/yolov8-segment-web-demo"><img alt="yolov8-segment-web-demo" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=zhuchentong&amp;repo=yolov8-segment-web-demo" /></a></td>
+    <td><a href="https://github.com/zhuchentong/gis-client"><img alt="gis-client" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=zhuchentong&amp;repo=gis-client" /></a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/zhuchentong/study_mini-vue"><img alt="study_mini-vue" src="https://github-readme-stats.vercel.app/api/pin/?username=zhuchentong&amp;repo=study_mini-vue" /></a></td>
-    <td><a href="https://github.com/zhuchentong/zhuchentong.cn"><img alt="zhuchentong.cn" src="https://github-readme-stats.vercel.app/api/pin/?username=zhuchentong&amp;repo=zhuchentong.cn" /></a></td>
+    <td><a href="https://github.com/zhuchentong/study_mini-vue"><img alt="study_mini-vue" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=zhuchentong&amp;repo=study_mini-vue" /></a></td>
+    <td><a href="https://github.com/zhuchentong/zhuchentong.cn"><img alt="zhuchentong.cn" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=zhuchentong&amp;repo=zhuchentong.cn" /></a></td>
   </tr>
 </table>
 
@@ -59,16 +59,16 @@ I'm **紫菜苔 (zhuchentong)**, a front-end developer from China. I build web a
   <tr>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=zhuchentong&amp;count_private=true&amp;show_icons=true&amp;theme=github_dark" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=zhuchentong&amp;count_private=true&amp;show_icons=true&amp;theme=default" />
-        <img alt="zhuchentong's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=zhuchentong&amp;count_private=true&amp;show_icons=true" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zhuchentong&amp;count_private=true&amp;show_icons=true&amp;theme=github_dark" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zhuchentong&amp;count_private=true&amp;show_icons=true&amp;theme=default" />
+        <img alt="zhuchentong's GitHub stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zhuchentong&amp;count_private=true&amp;show_icons=true" />
       </picture>
     </td>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zhuchentong&amp;layout=compact&amp;theme=github_dark" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zhuchentong&amp;layout=compact&amp;theme=default" />
-        <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhuchentong&amp;layout=compact" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zhuchentong&amp;layout=compact&amp;theme=github_dark" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zhuchentong&amp;layout=compact&amp;theme=default" />
+        <img alt="Top languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zhuchentong&amp;layout=compact" />
       </picture>
     </td>
   </tr>
@@ -82,6 +82,6 @@ I'm **紫菜苔 (zhuchentong)**, a front-end developer from China. I build web a
      - capsule-render.vercel.app        header image
      - readme-typing-svg.demolab.com    typing animation
      - img.shields.io / cdn.simpleicons.org  badges (logo slugs verified 2026-09; "css3" is now "css")
-     - github-readme-stats.vercel.app   stats / top-langs / project pin cards
+     - github-readme-stats-git-masterrstaa-rickstaa.vercel.app   stats / top-langs / project pin cards
      Note: *.vercel.app is unreachable from some networks (e.g. CN) directly; images are fetched and cached by GitHub (camo proxy), so visitors usually see them fine. Final visual check must be done on github.com after push.
 -->
