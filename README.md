@@ -40,40 +40,6 @@ I'm **紫菜苔 (zhuchentong)**, a front-end developer from China. I build web a
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&amp;logo=archlinux&amp;logoColor=white)
 
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td><a href="https://github.com/zhuchentong/yolov8-segment-web-demo"><img alt="yolov8-segment-web-demo" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=zhuchentong&amp;repo=yolov8-segment-web-demo" /></a></td>
-    <td><a href="https://github.com/zhuchentong/gis-client"><img alt="gis-client" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=zhuchentong&amp;repo=gis-client" /></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/zhuchentong/study_mini-vue"><img alt="study_mini-vue" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=zhuchentong&amp;repo=study_mini-vue" /></a></td>
-    <td><a href="https://github.com/zhuchentong/zhuchentong.cn"><img alt="zhuchentong.cn" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=zhuchentong&amp;repo=zhuchentong.cn" /></a></td>
-  </tr>
-</table>
-
-## 📈 GitHub Stats
-
-<table>
-  <tr>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zhuchentong&amp;count_private=true&amp;show_icons=true&amp;theme=github_dark" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zhuchentong&amp;count_private=true&amp;show_icons=true&amp;theme=default" />
-        <img alt="zhuchentong's GitHub stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zhuchentong&amp;count_private=true&amp;show_icons=true" />
-      </picture>
-    </td>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zhuchentong&amp;layout=compact&amp;theme=github_dark" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zhuchentong&amp;layout=compact&amp;theme=default" />
-        <img alt="Top languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zhuchentong&amp;layout=compact" />
-      </picture>
-    </td>
-  </tr>
-</table>
-
 ## Connect with Me
 
 [![Website](https://img.shields.io/website?label=zhuchentong.cn&amp;style=for-the-badge&amp;url=https%3A%2F%2Fzhuchentong.cn)](https://zhuchentong.cn)
@@ -82,6 +48,5 @@ I'm **紫菜苔 (zhuchentong)**, a front-end developer from China. I build web a
      - capsule-render.vercel.app        header image
      - readme-typing-svg.demolab.com    typing animation
      - img.shields.io / cdn.simpleicons.org  badges (logo slugs verified 2026-09; "css3" is now "css")
-     - github-readme-stats-git-masterrstaa-rickstaa.vercel.app   stats / top-langs / project pin cards
      Note: *.vercel.app is unreachable from some networks (e.g. CN) directly; images are fetched and cached by GitHub (camo proxy), so visitors usually see them fine. Final visual check must be done on github.com after push.
 -->
