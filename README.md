@@ -1,10 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:9d7bff,50:c77dff,100:e0aaff&amp;height=200&amp;section=header&amp;text=Hi%2C%20I%27m%20zhuchentong&amp;fontSize=45&amp;fontAlignY=32&amp;desc=Front-end%20Developer%20%C2%B7%20Tech%20Blogger&amp;descSize=18&amp;descAlignY=55&amp;animation=fadeIn" alt="Hi, I'm zhuchentong" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&amp;color=0:b967ff,50:bc13fe,100:01cdfe&amp;height=200&amp;section=header&amp;text=ZHUCHENTONG&amp;fontSize=52&amp;fontAlignY=32&amp;desc=%2F%2F%20FRONT-END%20DEVELOPER%20%3A%3A%20%E7%B4%AB%E8%8F%9C%E8%8B%94&amp;descSize=17&amp;descAlignY=56&amp;animation=fadeIn" alt="ZHUCHENTONG" width="100%" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=9D7BFF&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Building+the+web+with+TypeScript;Exploring+Rust%2C+AI+%26+game+dev;Writing+at+zhuchentong.cn" alt="typing animation" />
+  <img src="./assets/cyber-terminal.svg" alt="cyber terminal typing animation" width="640" />
 </div>
 
-## About Me
+<img src="./assets/neon-divider.svg" alt="" width="100%" />
+
+## // ABOUT_ME
 
 I'm **紫菜苔 (zhuchentong)**, a front-end developer from China. I build web apps with **TypeScript / Vue / Astro**, and I'm currently exploring **Rust**, **AI/ML** and game dev with **Godot**.
 
@@ -12,41 +14,53 @@ I'm **紫菜苔 (zhuchentong)**, a front-end developer from China. I build web a
 - 🌱 Currently learning **Rust**, **AI/ML** and **MoonBit**
 - 🤝 Open to collaborating on open-source & creative projects
 
-## Tech Stack
+<img src="./assets/neon-divider.svg" alt="" width="100%" />
 
-**Languages:**
+## // TECH_STACK
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&amp;logo=rust&amp;logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&amp;logo=lua&amp;logoColor=white)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,rust,python,lua,vue,react,astro,svelte&amp;perline=9" alt="languages &amp; frameworks" /><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,nodejs,vite,neovim,git,github,linux,bash&amp;perline=9" alt="tools" />
+</div>
 
-**Frontend:**
+<img src="./assets/neon-divider.svg" alt="" width="100%" />
 
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&amp;logo=vuedotjs&amp;logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=black)
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&amp;logo=astro&amp;logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&amp;logo=svelte&amp;logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&amp;logo=css&amp;logoColor=white)
+## // STATS
 
-**Tools:**
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zhuchentong&amp;show_icons=true&amp;count_private=true&amp;theme=synthwave&amp;hide_border=true&amp;bg_color=0d0b1a&amp;title_color=b967ff&amp;icon_color=01cdfe&amp;text_color=e0d7ff" alt="zhuchentong's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhuchentong&amp;layout=compact&amp;theme=synthwave&amp;hide_border=true&amp;bg_color=0d0b1a&amp;title_color=b967ff&amp;text_color=e0d7ff" alt="Top languages" />
+  <br/>
+  <img height="165" src="https://streak-stats.demolab.com?user=zhuchentong&amp;locale=en&amp;mode=daily&amp;hide_border=true&amp;background=0D0B1A&amp;border=B967FF&amp;stroke=BC13FE&amp;ring=01CDFE&amp;fire=FF71CE&amp;currStreakLabel=01CDFE&amp;currStreakNum=E0D7FF&amp;sideLabels=B967FF&amp;sideNums=E0D7FF&amp;dates=8A87A8" alt="GitHub streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/trophy?username=zhuchentong&amp;theme=radical&amp;no-frame=true&amp;row=1&amp;column=6&amp;margin-w=8" alt="GitHub trophies" />
+</div>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&amp;logo=vite&amp;logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&amp;logo=neovim&amp;logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&amp;logo=archlinux&amp;logoColor=white)
+<img src="./assets/neon-divider.svg" alt="" width="100%" />
 
-## Connect with Me
+## // SNAKE
 
-[![Website](https://img.shields.io/website?label=zhuchentong.cn&amp;style=for-the-badge&amp;url=https%3A%2F%2Fzhuchentong.cn)](https://zhuchentong.cn)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zhuchentong/zhuchentong/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zhuchentong/zhuchentong/output/github-contribution-grid-snake.svg" />
+    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/zhuchentong/zhuchentong/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
+
+<img src="./assets/neon-divider.svg" alt="" width="100%" />
+
+## // CONNECT
+
+[![Website](https://img.shields.io/website?label=zhuchentong.cn&amp;style=for-the-badge&amp;url=https%3A%2F%2Fzhuchentong.cn&amp;labelColor=12102a&amp;color=01cdfe)](https://zhuchentong.cn)
 
 <!-- External services this page depends on (verify URLs after any change):
      - capsule-render.vercel.app        header image
-     - readme-typing-svg.demolab.com    typing animation
-     - img.shields.io / cdn.simpleicons.org  badges (logo slugs verified 2026-09; "css3" is now "css")
+     - ./assets/cyber-terminal.svg      self-drawn terminal typing animation (SMIL, no external dependency)
+     - ./assets/neon-divider.svg        self-drawn neon divider (SMIL-free, static)
+     - skillicons.dev                   skill icon wall
+     - github-readme-stats.vercel.app   stats / top-langs / trophy cards
+     - streak-stats.demolab.com         streak stats card
+     - Platane/snk via GitHub Actions   snake SVGs on `output` branch (.github/workflows/snake.yml)
      Note: *.vercel.app is unreachable from some networks (e.g. CN) directly; images are fetched and cached by GitHub (camo proxy), so visitors usually see them fine. Final visual check must be done on github.com after push.
 -->

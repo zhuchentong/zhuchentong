@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="170" viewBox="0 0 640 170" role="img" aria-label="cyberpunk terminal typing animation: building the web with TypeScript, exploring Rust AI and game dev, writing at zhuchentong.cn">
+  <defs>
+    <linearGradient id="frame" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#b967ff"/>
+      <stop offset="0.5" stop-color="#bc13fe"/>
+      <stop offset="1" stop-color="#01cdfe"/>
+    </linearGradient>
+    <filter id="glow" x="-6%" y="-6%" width="112%" height="112%">
+      <feGaussianBlur stdDeviation="4"/>
+    </filter>
+    <clipPath id="msg1">
+      <rect x="72" y="74" width="0" height="30">
+        <animate attributeName="width" values="0;356;356;0;0" keyTimes="0;0.44;0.89;0.97;1" dur="3.6s" begin="0s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+    <clipPath id="msg2">
+      <rect x="72" y="74" width="0" height="30">
+        <animate attributeName="width" values="0;356;356;0;0" keyTimes="0;0.44;0.89;0.97;1" dur="3.6s" begin="3.6s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+    <clipPath id="msg3">
+      <rect x="72" y="74" width="0" height="30">
+        <animate attributeName="width" values="0;356;356;0;0" keyTimes="0;0.44;0.89;0.97;1" dur="3.6s" begin="7.2s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <!-- outer glow border -->
+  <rect x="4" y="4" width="632" height="162" rx="12" fill="none" stroke="#b967ff" stroke-width="5" opacity="0.4" filter="url(#glow)"/>
+
+  <!-- window body -->
+  <rect x="4" y="4" width="632" height="162" rx="12" fill="#0d0b1a" stroke="url(#frame)" stroke-width="1.6"/>
+
+  <!-- title bar -->
+  <rect x="5" y="5" width="630" height="32" rx="11" fill="#161233"/>
+  <rect x="5" y="20" width="630" height="17" fill="#161233"/>
+  <line x1="5" y1="37" x2="635" y2="37" stroke="#b967ff" stroke-opacity="0.35"/>
+  <circle cx="26" cy="21" r="5.5" fill="#ff5f56"/>
+  <circle cx="44" cy="21" r="5.5" fill="#ffbd2e"/>
+  <circle cx="62" cy="21" r="5.5" fill="#27c93f"/>
+  <text x="320" y="25" text-anchor="middle" font-family="'Fira Code','JetBrains Mono',Consolas,monospace" font-size="12" fill="#6f6a8f">zhuchentong@arch: ~/profile</text>
+
+  <!-- scanline -->
+  <rect x="8" y="44" width="624" height="1.5" fill="#01cdfe" opacity="0.12">
+    <animate attributeName="y" values="44;150;44" keyTimes="0;0.5;1" dur="5s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- typed messages (one visible at a time, typewriter reveal) -->
+  <g font-family="'Fira Code','JetBrains Mono',Consolas,monospace" font-size="17">
+    <text x="72" y="96" clip-path="url(#msg1)"><tspan fill="#01cdfe">&gt; </tspan><tspan fill="#e0d7ff">Building the web with TypeScript</tspan></text>
+    <text x="72" y="96" clip-path="url(#msg2)"><tspan fill="#01cdfe">&gt; </tspan><tspan fill="#e0d7ff">Exploring Rust, AI &amp; game dev</tspan></text>
+    <text x="72" y="96" clip-path="url(#msg3)"><tspan fill="#01cdfe">&gt; </tspan><tspan fill="#e0d7ff">Writing at zhuchentong.cn</tspan></text>
+  </g>
+
+  <!-- cursor follows the reveal -->
+  <rect x="72" y="81" width="9" height="19" fill="#01cdfe">
+    <animate attributeName="x" values="72;428;428;72;72" keyTimes="0;0.44;0.89;0.97;1" dur="3.6s" begin="0s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0;1" keyTimes="0;0.5;1" dur="1.1s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- static whoami line -->
+  <text x="72" y="128" font-family="'Fira Code','JetBrains Mono',Consolas,monospace" font-size="13" fill="#8a87a8">$ whoami <tspan fill="#b967ff">→</tspan> 紫菜苔 · front-end dev · zhuchentong.cn</text>
+</svg>

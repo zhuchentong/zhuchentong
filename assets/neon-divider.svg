@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="14" viewBox="0 0 840 14" role="img" aria-label="neon divider">
+  <defs>
+    <linearGradient id="ng" gradientUnits="userSpaceOnUse" x1="10" y1="7" x2="830" y2="7">
+      <stop offset="0" stop-color="#b967ff" stop-opacity="0"/>
+      <stop offset="0.18" stop-color="#b967ff"/>
+      <stop offset="0.5" stop-color="#bc13fe"/>
+      <stop offset="0.82" stop-color="#01cdfe"/>
+      <stop offset="1" stop-color="#01cdfe" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="soft" x="-10%" y="-300%" width="120%" height="700%">
+      <feGaussianBlur stdDeviation="2.2"/>
+    </filter>
+  </defs>
+  <!-- glow layer -->
+  <line x1="10" y1="7" x2="830" y2="7" stroke="url(#ng)" stroke-width="7" stroke-linecap="round" opacity="0.45" filter="url(#soft)"/>
+  <!-- crisp line -->
+  <line x1="10" y1="7" x2="830" y2="7" stroke="url(#ng)" stroke-width="1.6"/>
+  <!-- center node -->
+  <rect x="413" y="0" width="14" height="14" transform="rotate(45 420 7)" fill="url(#ng)" opacity="0.95"/>
+  <rect x="416.5" y="3.5" width="7" height="7" transform="rotate(45 420 7)" fill="#0d0b1a"/>
+</svg>
