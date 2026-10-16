@@ -49,23 +49,50 @@ I'm **紫菜苔 (zhuchentong)**, a front-end developer from China. I build web a
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 8 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   22.01 % 
+TypeScript               6 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
+Other                    4 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
+Bash                     2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+Rust                     2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+zhuchentong              7 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   21.47 % 
+opencode-taskboard       7 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   20.54 % 
+tu-design                4 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
+xbt-ai.dso-app           4 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+proxy-one                2 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    37 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 37 hrs 15 mins (100.0%)
+
+✍️ 28,943 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 22,195,300 Input Tokens, 4,639,837 Output Tokens
+
+💵 $1767.94 Estimated AI Cost This Week
+
+🧠 139 AI Sessions, 767 AI Prompts
+
+GLM                      25,072 lines        █████████████████████░░░░   85.03 % 
+M                        4,413 lines         ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
+Nemotron                 1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+DeepSeek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 289 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 16/10/2026 15:53:15 UTC
+ Last Updated on 16/10/2026 20:22:42 UTC
 <!--END_SECTION:waka-->
 
 <img src="./assets/neon-divider.svg" alt="" width="100%" />
