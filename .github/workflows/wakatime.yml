@@ -1,0 +1,38 @@
+name: waka readme
+
+on:
+  schedule:
+    # every 6 hours UTC
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    name: update readme with wakatime stats
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: update wakatime section
+        # AI Code Time badge + AI Coding This Week are on by default
+        # (SHOW_AI_CODE_TIME / SHOW_AI_CODING); flags below mirror Hotakus' setup.
+        uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          COMMIT_BY_ME: "False"
+          SHOW_SHORT_INFO: "False"
+          SHOW_TOTAL_CODE_TIME: "False"
+          SHOW_LINES_OF_CODE: "False"
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_DAYS_OF_WEEK: "False"
+          SHOW_OS: "True"
+          SHOW_PROJECTS: "True"
+          SHOW_COMMIT: "False"
+          SHOW_LANGUAGE: "True"
+          SHOW_EDITORS: "False"
+          SHOW_TIMEZONE: "True"
+          SHOW_LANGUAGE_PER_REPO: "False"
+          SHOW_LOC_CHART: "False"

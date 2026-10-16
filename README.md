@@ -38,6 +38,14 @@ I'm **紫菜苔 (zhuchentong)**, a front-end developer from China. I build web a
 
 <img src="./assets/neon-divider.svg" alt="" width="100%" />
 
+## // WAKATIME
+
+<!--START_SECTION:waka-->
+⏳ Loading WakaTime stats...
+<!--END_SECTION:waka-->
+
+<img src="./assets/neon-divider.svg" alt="" width="100%" />
+
 ## // SNAKE
 
 <div align="center">
@@ -61,6 +69,10 @@ I'm **紫菜苔 (zhuchentong)**, a front-end developer from China. I build web a
      - skillicons.dev                   skill icon wall
      - github-readme-stats.vercel.app   stats / top-langs / trophy cards
      - streak-stats.demolab.com         streak stats card
+     - wakatime.com (via anmol098/waka-readme-stats Action)  weekly coding + AI coding
+                                        stats between START/END_SECTION:waka markers
+                                        (.github/workflows/wakatime.yml; needs
+                                        WAKATIME_API_KEY + GH_TOKEN secrets)
      - Platane/snk via GitHub Actions   snake SVGs on `output` branch (.github/workflows/snake.yml)
      Note: *.vercel.app is unreachable from some networks (e.g. CN) directly; images are fetched and cached by GitHub (camo proxy), so visitors usually see them fine. Final visual check must be done on github.com after push.
 -->
