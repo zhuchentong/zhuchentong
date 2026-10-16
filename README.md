@@ -28,7 +28,7 @@ I'm **紫菜苔 (zhuchentong)**, a front-end developer from China. I build web a
 ## // STATS
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zhuchentong&amp;show_icons=true&amp;count_private=true&amp;theme=synthwave&amp;hide_border=true&amp;bg_color=0d0b1a&amp;title_color=b967ff&amp;icon_color=01cdfe&amp;text_color=e0d7ff" alt="zhuchentong's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zhuchentong&amp;show_icons=true&amp;count_private=true&amp;hide_rank=true&amp;theme=synthwave&amp;hide_border=true&amp;bg_color=0d0b1a&amp;title_color=b967ff&amp;icon_color=01cdfe&amp;text_color=e0d7ff" alt="zhuchentong's GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhuchentong&amp;layout=compact&amp;theme=synthwave&amp;hide_border=true&amp;bg_color=0d0b1a&amp;title_color=b967ff&amp;text_color=e0d7ff" alt="Top languages" />
   <br/>
   <img height="165" src="https://streak-stats.demolab.com?user=zhuchentong&amp;locale=en&amp;mode=daily&amp;hide_border=true&amp;background=0D0B1A&amp;border=B967FF&amp;stroke=BC13FE&amp;ring=01CDFE&amp;fire=FF71CE&amp;currStreakLabel=01CDFE&amp;currStreakNum=E0D7FF&amp;sideLabels=B967FF&amp;sideNums=E0D7FF&amp;dates=8A87A8" alt="GitHub streak" />
