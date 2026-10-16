@@ -16,12 +16,12 @@
     </clipPath>
     <clipPath id="msg2">
       <rect x="72" y="74" width="0" height="30">
-        <animate attributeName="width" values="0;356;356;0;0" keyTimes="0.3333;0.48;0.63;0.6567;1" dur="10.8s" begin="0s" repeatCount="indefinite"/>
+        <animate attributeName="width" values="0;0;356;356;0;0" keyTimes="0;0.3333;0.48;0.63;0.6567;1" dur="10.8s" begin="0s" repeatCount="indefinite"/>
       </rect>
     </clipPath>
     <clipPath id="msg3">
       <rect x="72" y="74" width="0" height="30">
-        <animate attributeName="width" values="0;356;356;0;0" keyTimes="0.6667;0.8133;0.9633;0.99;1" dur="10.8s" begin="0s" repeatCount="indefinite"/>
+        <animate attributeName="width" values="0;0;356;356;0;0" keyTimes="0;0.6667;0.8133;0.9633;0.99;1" dur="10.8s" begin="0s" repeatCount="indefinite"/>
       </rect>
     </clipPath>
   </defs>
