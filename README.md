@@ -41,7 +41,29 @@ I'm **紫菜苔 (zhuchentong)**, a front-end developer from China. I build web a
 ## // WAKATIME
 
 <!--START_SECTION:waka-->
-⏳ Loading WakaTime stats...
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+
+ Last Updated on 16/10/2026 03:11:06 UTC
 <!--END_SECTION:waka-->
 
 <img src="./assets/neon-divider.svg" alt="" width="100%" />
