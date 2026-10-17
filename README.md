@@ -49,50 +49,50 @@ I'm **紫菜苔 (zhuchentong)**, a front-end developer from China. I build web a
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 8 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   22.01 % 
-TypeScript               6 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
-Other                    4 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
-Bash                     2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
-Rust                     2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
+Markdown                 8 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   25.44 % 
+TypeScript               6 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
+Other                    4 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
+Rust                     2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
+Vue                      2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
 
 🐱‍💻 Projects: 
-zhuchentong              7 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   21.47 % 
-opencode-taskboard       7 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   20.54 % 
-tu-design                4 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
-xbt-ai.dso-app           4 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
-proxy-one                2 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+opencode-taskboard       7 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
+zhuchentong              5 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
+tu-design                4 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
+xbt-ai.dso-app           4 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+proxy-one                2 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
 
 💻 Operating System: 
-Linux                    37 hrs 15 mins      █████████████████████████   100.00 % 
+Linux                    32 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 37 hrs 15 mins (100.0%)
+⏱ AI Coding Time: 32 hrs 14 mins (100.0%)
 
-✍️ 28,943 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 28,084 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 22,195,300 Input Tokens, 4,639,837 Output Tokens
+🔤 21,334,025 Input Tokens, 4,340,192 Output Tokens
 
-💵 $1767.94 Estimated AI Cost This Week
+💵 $1728.82 Estimated AI Cost This Week
 
-🧠 139 AI Sessions, 767 AI Prompts
+🧠 132 AI Sessions, 688 AI Prompts
 
-GLM                      25,072 lines        █████████████████████░░░░   85.03 % 
-M                        4,413 lines         ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
+GLM                      24,208 lines        █████████████████████░░░░   84.58 % 
+M                        4,413 lines         ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
 Nemotron                 1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 DeepSeek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 289 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📝 Concise Prompter — average 292 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 17/10/2026 14:46:30 UTC
+ Last Updated on 17/10/2026 19:56:32 UTC
 <!--END_SECTION:waka-->
 
 <img src="./assets/neon-divider.svg" alt="" width="100%" />
