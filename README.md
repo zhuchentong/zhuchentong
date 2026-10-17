@@ -41,7 +41,7 @@ I'm **紫菜苔 (zhuchentong)**, a front-end developer from China. I build web a
 ## // WAKATIME
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%2019%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-15%20hrs%201%20min-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -92,7 +92,7 @@ DeepSeek                 0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 16/10/2026 20:22:42 UTC
+ Last Updated on 17/10/2026 02:28:27 UTC
 <!--END_SECTION:waka-->
 
 <img src="./assets/neon-divider.svg" alt="" width="100%" />
