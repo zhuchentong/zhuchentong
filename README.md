@@ -41,7 +41,7 @@ I'm **紫菜苔 (zhuchentong)**, a front-end developer from China. I build web a
 ## // WAKATIME
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-38%20hrs%2040%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-46%20hrs%2017%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -49,50 +49,50 @@ I'm **紫菜苔 (zhuchentong)**, a front-end developer from China. I build web a
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               13 hrs 4 mins       █████████░░░░░░░░░░░░░░░░   36.79 % 
-Markdown                 6 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
-Other                    5 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
-Vue                      2 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
-Svelte                   2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+TypeScript               14 hrs 5 mins       █████████░░░░░░░░░░░░░░░░   34.39 % 
+Markdown                 6 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
+Other                    4 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+Dart                     4 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+Vue                      2 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
 
 🐱‍💻 Projects: 
-opencode-taskboard       17 hrs 11 mins      ████████████░░░░░░░░░░░░░   48.37 % 
-xbt-robot-platform       7 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
-zhuchentong              3 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
-xbt-ai.dso-app           3 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
-sszk-platform-mall       53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+opencode-taskboard       17 hrs 25 mins      ███████████░░░░░░░░░░░░░░   42.54 % 
+xbt-robot-platform       7 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
+xbt-ai.dso-app           6 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
+zhuchentong              3 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+tu-design                1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
 
 💻 Operating System: 
-Linux                    35 hrs 33 mins      █████████████████████████   100.00 % 
+Linux                    40 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 35 hrs 33 mins (100.0%)
+⏱ AI Coding Time: 40 hrs 57 mins (100.0%)
 
-✍️ 55,782 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 59,698 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 26,097,482 Input Tokens, 5,283,560 Output Tokens
+🔤 27,779,864 Input Tokens, 5,769,080 Output Tokens
 
-💵 $2808.33 Estimated AI Cost This Week
+💵 $3151.38 Estimated AI Cost This Week
 
-🧠 417 AI Sessions, 853 AI Prompts
+🧠 438 AI Sessions, 912 AI Prompts
 
-GLM                      46,443 lines        ███████████████████░░░░░░   76.45 % 
-M                        14,302 lines        ██████░░░░░░░░░░░░░░░░░░░   23.54 % 
+GLM                      50,369 lines        ███████████████████░░░░░░   77.68 % 
+M                        14,469 lines        ██████░░░░░░░░░░░░░░░░░░░   22.32 % 
 Nemotron                 1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 DeepSeek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 463 characters per prompt
+📝 Concise Prompter — average 446 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 22/10/2026 16:25:44 UTC
+ Last Updated on 22/10/2026 21:03:58 UTC
 <!--END_SECTION:waka-->
 
 <img src="./assets/neon-divider.svg" alt="" width="100%" />
